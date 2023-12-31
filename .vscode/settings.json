@@ -1,0 +1,16 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "lvgl_helpers.h": "c",
+        "lvgl.h": "c",
+        "ui.h": "c",
+        "lv_demo_widgets.h": "c",
+        "xpt2046.h": "c",
+        "touch_driver.h": "c",
+        "tp_spi.h": "c",
+        "tp_i2c.h": "c",
+        "ui_helpers.h": "c"
+    },
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART"
+}
