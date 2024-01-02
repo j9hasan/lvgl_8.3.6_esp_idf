@@ -11,6 +11,6 @@
         "tp_i2c.h": "c",
         "ui_helpers.h": "c"
     },
-    "idf.portWin": "COM3",
+    "idf.portWin": "COM15",
     "idf.flashType": "UART"
 }
